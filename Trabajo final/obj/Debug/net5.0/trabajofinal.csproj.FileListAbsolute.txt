@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\bin\Debug\net5.0\trabajofinal.exe
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\bin\Debug\net5.0\trabajofinal.deps.json
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\bin\Debug\net5.0\trabajofinal.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\bin\Debug\net5.0\trabajofinal.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\bin\Debug\net5.0\trabajofinal.dll
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\bin\Debug\net5.0\ref\trabajofinal.dll
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\bin\Debug\net5.0\trabajofinal.pdb
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\trabajofinal.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\trabajofinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\trabajofinal.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\trabajofinal.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\trabajofinal.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\trabajofinal.dll
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\ref\trabajofinal.dll
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\trabajofinal.pdb
+C:\Users\Gonzalo\Desktop\trabajoC#\trabajofinal\obj\Debug\net5.0\trabajofinal.genruntimeconfig.cache
